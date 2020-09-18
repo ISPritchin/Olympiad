@@ -2,24 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="78c76e65-686e-48e5-95dd-a4a444b57602" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Линейные алгоритмы/Задача о делимости.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Разветвляющиеся алгоритмы/Простые задачи/Конфеты и две сестры.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Разветвляющиеся алгоритмы/Простые задачи/Подсчёт функции.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Циклические алгоритмы/Обработка одномерных массивов/I wanna be the Guy.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Циклические алгоритмы/Обработка одномерных массивов/Матчи.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Циклические алгоритмы/Обработка одномерных массивов/Не смешите мои подковы.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Циклические алгоритмы/Обработка одномерных массивов/Приезд генерала.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Циклические алгоритмы/Обработка строк/Антон и буквы.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Циклические алгоритмы/Обработка строк/Быстрый математик.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Циклические алгоритмы/Обработка строк/Веселая шутка.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Циклические алгоритмы/Обработка строк/Панграмма.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Циклические алгоритмы/Простые задачи/Антон и многогранники.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Циклические алгоритмы/Простые задачи/Выиграть в лотарею.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Циклические алгоритмы/Простые задачи/Лиса и змейка.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Циклические алгоритмы/Простые задачи/Напитки.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Циклические алгоритмы/Простые задачи/Средство от бессонницы.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Циклические алгоритмы/Простые задачи/Халк.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Циклические алгоритмы/Простые задачи/Лиса и змейка.py" beforeDir="false" afterPath="$PROJECT_DIR$/Циклические алгоритмы/Простые задачи/Лиса и змейка.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -35,6 +18,7 @@
     <SUITE FILE_PATH="coverage/Olymp$Bit__.coverage" NAME="Bit++ Coverage Results" MODIFIED="1600416843532" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Обработка строк" />
     <SUITE FILE_PATH="coverage/Olymp$___.coverage" NAME="Не смешите мои подковы Coverage Results" MODIFIED="1600430343427" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Циклические алгоритмы/Обработка одномерных массивов" />
     <SUITE FILE_PATH="coverage/Olymp$Unnamed.coverage" NAME="Unnamed Coverage Results" MODIFIED="1600415070551" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/Olymp$________.coverage" NAME="Уроки дизайна задач -  учимся у математики Coverage Results" MODIFIED="1600433855363" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Циклические алгоритмы/Простые задачи" />
     <SUITE FILE_PATH="coverage/Olymp$I_wanna_be_the_Guy.coverage" NAME="I wanna be the Guy Coverage Results" MODIFIED="1600429843765" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Циклические алгоритмы/Обработка одномерных массивов" />
   </component>
   <component name="FileEditorManager">
@@ -123,8 +107,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Циклические алгоритмы/Простые задачи/Лиса и змейка.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="10" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
+            <state relative-caret-position="255">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
             </state>
           </provider>
         </entry>
@@ -265,7 +249,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Антон и многогранники">
+  <component name="RunManager" selected="Python.Уроки дизайна задач -  учимся у математики">
+    <configuration name="Уроки дизайна задач -  учимся у математики" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Olymp" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Циклические алгоритмы/Простые задачи" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Циклические алгоритмы/Простые задачи/Уроки дизайна задач -  учимся у математики.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Задача о делимости" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Olymp" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -354,28 +360,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Не смешите мои подковы" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Olymp" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Циклические алгоритмы/Обработка одномерных массивов" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Циклические алгоритмы/Обработка одномерных массивов/Не смешите мои подковы.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="Unnamed" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Olymp" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -400,19 +384,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.Unnamed" />
-      <item itemvalue="Python.Не смешите мои подковы" />
       <item itemvalue="Python.Приезд генерала" />
       <item itemvalue="Python.Антон и буквы" />
       <item itemvalue="Python.Задача о делимости" />
       <item itemvalue="Python.Антон и многогранники" />
+      <item itemvalue="Python.Уроки дизайна задач -  учимся у математики" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Уроки дизайна задач -  учимся у математики" />
         <item itemvalue="Python.Антон и многогранники" />
         <item itemvalue="Python.Задача о делимости" />
         <item itemvalue="Python.Антон и буквы" />
         <item itemvalue="Python.Приезд генерала" />
-        <item itemvalue="Python.Не смешите мои подковы" />
       </list>
     </recent_temporary>
   </component>
@@ -426,12 +410,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1600414826606</updated>
-      <workItem from="1600414831710" duration="16390000" />
+      <workItem from="1600414831710" duration="16843000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16390000" />
+    <option name="totallyTimeSpent" value="16843000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
@@ -795,8 +779,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Циклические алгоритмы/Простые задачи/Лиса и змейка.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="10" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
+        <state relative-caret-position="255">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>
