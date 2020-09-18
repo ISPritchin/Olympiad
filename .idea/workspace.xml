@@ -2,24 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="78c76e65-686e-48e5-95dd-a4a444b57602" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Разветвляющиеся алгоритмы/Обработка строк/Капитализация слова.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Разветвляющиеся алгоритмы/Простые задачи/Солдат и бананы.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Циклические алгоритмы/Обработка двумерных массивов/Красивая матрица.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Циклические алгоритмы/Обработка строк/Девушка или Юноша.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Циклические алгоритмы/Обработка строк/Камни на столе.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Циклические алгоритмы/Обработка строк/Математика спешит на помощь.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Циклические алгоритмы/Обработка строк/Очередь в школе.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Циклические алгоритмы/Простые задачи/Мишка и старший брат.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Циклические алгоритмы/Простые задачи/Неправильное вычитание.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Циклические алгоритмы/Простые задачи/Почти счастливое число.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Циклические алгоритмы/Простые задачи/Трамвай.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Разветвляющиеся алгоритмы/Обработка строк/Антон и Даник.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Циклические алгоритмы/Обработка строк/Перевод.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Циклические алгоритмы/Обработка строк/Слово.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Циклические алгоритмы/Простые задачи/В поисках простой задачи.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Циклические алгоритмы/Простые задачи/Ваня и забор.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Циклические алгоритмы/Простые задачи/Красивый год.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Циклические алгоритмы/Простые задачи/Магниты.с" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Циклические алгоритмы/Простые задачи/Подарки.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Циклические алгоритмы/Простые задачи/Юра и заселение.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Обработка строк/Bit++.py" beforeDir="false" afterPath="$PROJECT_DIR$/Разветвляющиеся алгоритмы/Обработка строк/Bit++.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Обработка строк/Петя и строки.py" beforeDir="false" afterPath="$PROJECT_DIR$/Циклические алгоритмы/Обработка строк/Петя и строки.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Разветвляющиеся алгоритмы/Арбузы.py" beforeDir="false" afterPath="$PROJECT_DIR$/Разветвляющиеся алгоритмы/Простые задачи/Арбузы.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Разветвляющиеся алгоритмы/Слишком длинные слова.py" beforeDir="false" afterPath="$PROJECT_DIR$/Разветвляющиеся алгоритмы/Обработка строк/Слишком длинные слова.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Циклические алгоритмы/Команда.py" beforeDir="false" afterPath="$PROJECT_DIR$/Циклические алгоритмы/Простые задачи/Команда.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Циклические алгоритмы/Следующий раунд.py" beforeDir="false" afterPath="$PROJECT_DIR$/Циклические алгоритмы/Обработка одномерных массивов/Следующий раунд.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,17 +20,35 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/Olymp$_.coverage" NAME="Неправильное вычитание Coverage Results" MODIFIED="1600420826793" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Циклические алгоритмы/Простые задачи" />
-    <SUITE FILE_PATH="coverage/Olymp$__.coverage" NAME="Почти счастливое число Coverage Results" MODIFIED="1600424070402" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Циклические алгоритмы/Простые задачи" />
-    <SUITE FILE_PATH="coverage/Olymp$.coverage" NAME="Слоник Coverage Results" MODIFIED="1600423811421" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Разветвляющиеся алгоритмы/Простые задачи" />
+    <SUITE FILE_PATH="coverage/Olymp$_.coverage" NAME="Красивый год Coverage Results" MODIFIED="1600426515597" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Циклические алгоритмы/Простые задачи" />
+    <SUITE FILE_PATH="coverage/Olymp$__.coverage" NAME="Ваня и забор Coverage Results" MODIFIED="1600426998137" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Циклические алгоритмы/Простые задачи" />
+    <SUITE FILE_PATH="coverage/Olymp$.coverage" NAME="Подарки Coverage Results" MODIFIED="1600426963137" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Циклические алгоритмы/Простые задачи" />
     <SUITE FILE_PATH="coverage/Olymp$Bit__.coverage" NAME="Bit++ Coverage Results" MODIFIED="1600416843532" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Обработка строк" />
     <SUITE FILE_PATH="coverage/Olymp$___.coverage" NAME="Мишка и старший брат Coverage Results" MODIFIED="1600420355900" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Циклические алгоритмы/Простые задачи" />
     <SUITE FILE_PATH="coverage/Olymp$Unnamed.coverage" NAME="Unnamed Coverage Results" MODIFIED="1600415070551" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
   </component>
   <component name="FileEditorManager">
     <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Циклические алгоритмы/Простые задачи/Ваня и забор.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Циклические алгоритмы/Простые задачи/Магниты.с">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="50" selection-start-column="50" selection-end-column="50" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Циклические алгоритмы/Простые задачи/Почти счастливое число.py">
+        <entry file="file://$PROJECT_DIR$/Циклические алгоритмы/Простые задачи/В поисках простой задачи.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="136">
               <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
@@ -83,6 +93,15 @@
         <option value="$PROJECT_DIR$/Разветвляющиеся алгоритмы/Обработка строк/Очередь в школе.py" />
         <option value="$PROJECT_DIR$/Циклические алгоритмы/Обработка строк/Очередь в школе.py" />
         <option value="$PROJECT_DIR$/Циклические алгоритмы/Простые задачи/Почти счастливое число.py" />
+        <option value="$PROJECT_DIR$/Циклические алгоритмы/Обработка строк/Слово.py" />
+        <option value="$PROJECT_DIR$/Циклические алгоритмы/Обработка строк/Перевод.py" />
+        <option value="$PROJECT_DIR$/Разветвляющиеся алгоритмы/Обработка строк/Антон и Даник.py" />
+        <option value="$PROJECT_DIR$/Циклические алгоритмы/Простые задачи/Юра и заселение.py" />
+        <option value="$PROJECT_DIR$/Циклические алгоритмы/Простые задачи/Красивый год.py" />
+        <option value="$PROJECT_DIR$/Циклические алгоритмы/Простые задачи/Подарки.py" />
+        <option value="$PROJECT_DIR$/Циклические алгоритмы/Простые задачи/Ваня и забор.py" />
+        <option value="$PROJECT_DIR$/Циклические алгоритмы/Простые задачи/Магниты.с" />
+        <option value="$PROJECT_DIR$/Циклические алгоритмы/Простые задачи/В поисках простой задачи.py" />
       </list>
     </option>
   </component>
@@ -103,17 +122,6 @@
             <path>
               <item name="Olymp" type="b2602c69:ProjectViewProjectNode" />
               <item name="Olymp" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Olymp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Olymp" type="462c0819:PsiDirectoryNode" />
-              <item name="Разветвляющиеся алгоритмы" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Olymp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Olymp" type="462c0819:PsiDirectoryNode" />
-              <item name="Разветвляющиеся алгоритмы" type="462c0819:PsiDirectoryNode" />
-              <item name="Обработка строк" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Olymp" type="b2602c69:ProjectViewProjectNode" />
@@ -160,30 +168,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Почти счастливое число">
-    <configuration name="Очередь в школе" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Olymp" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Циклические алгоритмы/Обработка строк" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Циклические алгоритмы/Обработка строк/Очередь в школе.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Почти счастливое число" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Ваня и забор">
+    <configuration name="Ваня и забор" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Olymp" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -196,7 +182,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Циклические алгоритмы/Простые задачи/Почти счастливое число.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Циклические алгоритмы/Простые задачи/Ваня и забор.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -205,7 +191,29 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Неправильное вычитание" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Антон и Даник" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Olymp" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Разветвляющиеся алгоритмы/Обработка строк" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Разветвляющиеся алгоритмы/Обработка строк/Антон и Даник.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Красивый год" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Olymp" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -218,7 +226,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Циклические алгоритмы/Простые задачи/Неправильное вычитание.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Циклические алгоритмы/Простые задачи/Красивый год.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -227,29 +235,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Слоник" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Olymp" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Разветвляющиеся алгоритмы/Простые задачи" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Разветвляющиеся алгоритмы/Простые задачи/Слоник.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Трамвай" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Юра и заселение" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Olymp" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -262,7 +248,29 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Циклические алгоритмы/Простые задачи/Трамвай.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Циклические алгоритмы/Простые задачи/Юра и заселение.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Подарки" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Olymp" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Циклические алгоритмы/Простые задачи" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Циклические алгоритмы/Простые задачи/Подарки.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -295,19 +303,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.Unnamed" />
-      <item itemvalue="Python.Трамвай" />
-      <item itemvalue="Python.Неправильное вычитание" />
-      <item itemvalue="Python.Слоник" />
-      <item itemvalue="Python.Очередь в школе" />
-      <item itemvalue="Python.Почти счастливое число" />
+      <item itemvalue="Python.Антон и Даник" />
+      <item itemvalue="Python.Юра и заселение" />
+      <item itemvalue="Python.Красивый год" />
+      <item itemvalue="Python.Подарки" />
+      <item itemvalue="Python.Ваня и забор" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Почти счастливое число" />
-        <item itemvalue="Python.Очередь в школе" />
-        <item itemvalue="Python.Слоник" />
-        <item itemvalue="Python.Неправильное вычитание" />
-        <item itemvalue="Python.Трамвай" />
+        <item itemvalue="Python.Ваня и забор" />
+        <item itemvalue="Python.Подарки" />
+        <item itemvalue="Python.Красивый год" />
+        <item itemvalue="Python.Юра и заселение" />
+        <item itemvalue="Python.Антон и Даник" />
       </list>
     </recent_temporary>
   </component>
@@ -321,19 +329,19 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1600414826606</updated>
-      <workItem from="1600414831710" duration="7307000" />
+      <workItem from="1600414831710" duration="10370000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7307000" />
+    <option name="totallyTimeSpent" value="10370000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
@@ -343,7 +351,7 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.23857301" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.23857301" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -491,6 +499,69 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Циклические алгоритмы/Простые задачи/Почти счастливое число.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Циклические алгоритмы/Обработка строк/Слово.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="12" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Циклические алгоритмы/Обработка строк/Перевод.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="48" selection-start-column="48" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Разветвляющиеся алгоритмы/Обработка строк/Антон и Даник.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" lean-forward="true" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Циклические алгоритмы/Простые задачи/Юра и заселение.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="10" lean-forward="true" selection-end-line="8" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Циклические алгоритмы/Простые задачи/Красивый год.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Циклические алгоритмы/Простые задачи/Подарки.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Циклические алгоритмы/Простые задачи/Ваня и забор.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Циклические алгоритмы/Простые задачи/Магниты.с">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="50" selection-start-column="50" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Циклические алгоритмы/Простые задачи/В поисках простой задачи.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
