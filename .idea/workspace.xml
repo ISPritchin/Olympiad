@@ -2,7 +2,36 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="78c76e65-686e-48e5-95dd-a4a444b57602" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Циклические алгоритмы/Простые задачи/Лиса и змейка.py" beforeDir="false" afterPath="$PROJECT_DIR$/Циклические алгоритмы/Простые задачи/Лиса и змейка.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Линейные алгоритмы/Новый год - встреча друзей.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Разветвляющиеся алгоритмы/Простые задачи/Ещё одна задача о двух числах.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Разветвляющиеся алгоритмы/Простые задачи/Минимальный квадрат.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Разветвляющиеся алгоритмы/Простые задачи/Наиболее нестабильный массив.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Разветвляющиеся алгоритмы/Простые задачи/Необходимый остаток.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Разветвляющиеся алгоритмы/Простые задачи/Хипстер Вася.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Циклические алгоритмы/Обработка двумерных массивов/Максимум в таблице.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Циклические алгоритмы/Обработка одномерных массивов/Восстановление перестановки после слияния.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Циклические алгоритмы/Обработка одномерных массивов/Два массива и обмены.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Циклические алгоритмы/Обработка одномерных массивов/Командная олимпиада.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Циклические алгоритмы/Обработка одномерных массивов/Праздник равенства.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Циклические алгоритмы/Обработка одномерных массивов/Удалить наименьшее.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Циклические алгоритмы/Обработка одномерных массивов/Уравнивание подарков.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Циклические алгоритмы/Обработка одномерных массивов/Феникс и баланс.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Циклические алгоритмы/Обработка одномерных массивов/Честный тренер.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Циклические алгоритмы/Обработка одномерных массивов/Четный массив.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Циклические алгоритмы/Обработка последовательностей/I_love_%username%.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Циклические алгоритмы/Обработка последовательностей/Мишка и игра.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Циклические алгоритмы/Обработка последовательностей/Полицейские-рекруты.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Циклические алгоритмы/Обработка строк/Короткие подстроки.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Циклические алгоритмы/Простые задачи/Восстановление трех чисел.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Циклические алгоритмы/Простые задачи/Выбор команд.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Циклические алгоритмы/Простые задачи/Задача Бахгольда.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Циклические алгоритмы/Простые задачи/Куплю лопату.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Циклические алгоритмы/Простые задачи/Новый год и спешка.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Циклические алгоритмы/Простые задачи/Сбалансированный массив.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Циклические алгоритмы/Простые задачи/Сумма круглых чисел.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Линейные алгоритмы/Задача о делимости.py" beforeDir="false" afterPath="$PROJECT_DIR$/Разветвляющиеся алгоритмы/Простые задачи/Задача о делимости.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Циклические алгоритмы/Простые задачи/Антон и многогранники.py" beforeDir="false" afterPath="$PROJECT_DIR$/Циклические алгоритмы/Простые задачи/Антон и многогранники.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,8 +40,8 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/Olymp$_.coverage" NAME="Приезд генерала Coverage Results" MODIFIED="1600431083557" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Циклические алгоритмы/Обработка одномерных массивов" />
-    <SUITE FILE_PATH="coverage/Olymp$__.coverage" NAME="Антон и многогранники Coverage Results" MODIFIED="1600431995921" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Циклические алгоритмы/Простые задачи" />
+    <SUITE FILE_PATH="coverage/Olymp$_.coverage" NAME="Сбалансированный массив Coverage Results" MODIFIED="1600680471594" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Циклические алгоритмы/Простые задачи" />
+    <SUITE FILE_PATH="coverage/Olymp$__.coverage" NAME="Сумма круглых чисел Coverage Results" MODIFIED="1600679162530" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Циклические алгоритмы/Простые задачи" />
     <SUITE FILE_PATH="coverage/Olymp$A___.coverage" NAME="A. Быстрый математик Coverage Results" MODIFIED="1600428534047" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Циклические алгоритмы/Обработка строк" />
     <SUITE FILE_PATH="coverage/Olymp$.coverage" NAME="Напитки Coverage Results" MODIFIED="1600428897858" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Циклические алгоритмы/Простые задачи" />
     <SUITE FILE_PATH="coverage/Olymp$Bit__.coverage" NAME="Bit++ Coverage Results" MODIFIED="1600416843532" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Обработка строк" />
@@ -22,93 +51,93 @@
     <SUITE FILE_PATH="coverage/Olymp$I_wanna_be_the_Guy.coverage" NAME="I wanna be the Guy Coverage Results" MODIFIED="1600429843765" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Циклические алгоритмы/Обработка одномерных массивов" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Циклические алгоритмы/Обработка одномерных массивов/Приезд генерала.py">
+        <entry file="file://$PROJECT_DIR$/Циклические алгоритмы/Обработка одномерных массивов/Феникс и баланс.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="17" lean-forward="true" selection-end-line="13" />
+            <state relative-caret-position="119">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Циклические алгоритмы/Обработка строк/Антон и буквы.py">
+        <entry file="file://$PROJECT_DIR$/Разветвляющиеся алгоритмы/Простые задачи/Необходимый остаток.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Циклические алгоритмы/Обработка одномерных массивов/Уравнивание подарков.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="136">
-              <caret line="8" lean-forward="true" selection-end-line="8" />
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Линейные алгоритмы/Задача о делимости.py">
+        <entry file="file://$PROJECT_DIR$/Циклические алгоритмы/Обработка одномерных массивов/Четный массив.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" lean-forward="true" selection-end-line="9" />
+            <state relative-caret-position="17">
+              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Циклические алгоритмы/Простые задачи/Антон и многогранники.py">
+        <entry file="file://$PROJECT_DIR$/Циклические алгоритмы/Обработка одномерных массивов/Командная олимпиада.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="10" lean-forward="true" selection-end-line="16" selection-end-column="10" />
+            <state relative-caret-position="306">
+              <caret line="18" column="21" lean-forward="true" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Циклические алгоритмы/Обработка одномерных массивов/Матчи.py">
+        <entry file="file://$PROJECT_DIR$/Циклические алгоритмы/Обработка одномерных массивов/Честный тренер.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" lean-forward="true" selection-end-line="14" />
+            <state relative-caret-position="102">
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Циклические алгоритмы/Обработка строк/Панграмма.py">
+        <entry file="file://$PROJECT_DIR$/Разветвляющиеся алгоритмы/Простые задачи/Наиболее нестабильный массив.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+            <state>
+              <caret column="50" selection-start-column="50" selection-end-column="50" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Циклические алгоритмы/Обработка строк/Веселая шутка.py">
+        <entry file="file://$PROJECT_DIR$/Циклические алгоритмы/Простые задачи/Задача Бахгольда.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="16" lean-forward="true" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
+            <state relative-caret-position="170">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Разветвляющиеся алгоритмы/Простые задачи/Конфеты и две сестры.py">
+        <entry file="file://$PROJECT_DIR$/Циклические алгоритмы/Обработка двумерных массивов/Максимум в таблице.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="187">
-              <caret line="11" lean-forward="true" selection-end-line="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Циклические алгоритмы/Простые задачи/Выиграть в лотарею.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="10" lean-forward="true" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Циклические алгоритмы/Простые задачи/Лиса и змейка.py">
+        <entry file="file://$PROJECT_DIR$/Циклические алгоритмы/Обработка одномерных массивов/Восстановление перестановки после слияния.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+            <state relative-caret-position="238">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
             </state>
           </provider>
         </entry>
@@ -128,35 +157,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Разветвляющиеся алгоритмы/Укладка доминошками.py" />
-        <option value="$PROJECT_DIR$/Разветвляющиеся алгоритмы/Слишком длинные слова.py" />
-        <option value="$PROJECT_DIR$/Разветвляющиеся алгоритмы/Арбузы.py" />
-        <option value="$PROJECT_DIR$/Циклические алгоритмы/Следующий раунд.py" />
-        <option value="$PROJECT_DIR$/Циклические алгоритмы/Команда.py" />
-        <option value="$PROJECT_DIR$/Линейные алгоритмы/Укладка доминошками.py" />
-        <option value="$PROJECT_DIR$/Обработка строк/Bit++.py" />
-        <option value="$PROJECT_DIR$/Обработка строк/Петя и строки.py" />
-        <option value="$PROJECT_DIR$/Циклические алгоритмы/Красивая матрица.py" />
-        <option value="$PROJECT_DIR$/Обработка строк/Математика спешит на помощь.py" />
-        <option value="$PROJECT_DIR$/Обработка строк/Капитализация слова.py" />
-        <option value="$PROJECT_DIR$/Циклические алгоритмы/Обработка строк/Камни на столе.py" />
-        <option value="$PROJECT_DIR$/Циклические алгоритмы/Обработка строк/Девушка или Юноша.py" />
-        <option value="$PROJECT_DIR$/Линейные алгоритмы/Солдат и бананы.py" />
-        <option value="$PROJECT_DIR$/Циклические алгоритмы/Простые задачи/Мишка и старший брат.py" />
-        <option value="$PROJECT_DIR$/Циклические алгоритмы/Простые задачи/Трамвай.py" />
-        <option value="$PROJECT_DIR$/Циклические алгоритмы/Простые задачи/Неправильное вычитание.py" />
-        <option value="$PROJECT_DIR$/Разветвляющиеся алгоритмы/Простые задачи/Ckjybr.py" />
-        <option value="$PROJECT_DIR$/Разветвляющиеся алгоритмы/Простые задачи/Слоник.py" />
-        <option value="$PROJECT_DIR$/Разветвляющиеся алгоритмы/Обработка строк/Очередь в школе.py" />
-        <option value="$PROJECT_DIR$/Циклические алгоритмы/Обработка строк/Очередь в школе.py" />
-        <option value="$PROJECT_DIR$/Циклические алгоритмы/Простые задачи/Почти счастливое число.py" />
-        <option value="$PROJECT_DIR$/Циклические алгоритмы/Обработка строк/Слово.py" />
-        <option value="$PROJECT_DIR$/Циклические алгоритмы/Обработка строк/Перевод.py" />
-        <option value="$PROJECT_DIR$/Разветвляющиеся алгоритмы/Обработка строк/Антон и Даник.py" />
-        <option value="$PROJECT_DIR$/Циклические алгоритмы/Простые задачи/Юра и заселение.py" />
-        <option value="$PROJECT_DIR$/Циклические алгоритмы/Простые задачи/Красивый год.py" />
-        <option value="$PROJECT_DIR$/Циклические алгоритмы/Простые задачи/Подарки.py" />
-        <option value="$PROJECT_DIR$/Циклические алгоритмы/Простые задачи/Ваня и забор.py" />
         <option value="$PROJECT_DIR$/Циклические алгоритмы/Простые задачи/Магниты.с" />
         <option value="$PROJECT_DIR$/Циклические алгоритмы/Простые задачи/В поисках простой задачи.py" />
         <option value="$PROJECT_DIR$/Циклические алгоритмы/Простые задачи/Халк.py" />
@@ -171,13 +171,43 @@
         <option value="$PROJECT_DIR$/Циклические алгоритмы/Обработка строк/Антон и буквы.py" />
         <option value="$PROJECT_DIR$/Линейные алгоритмы/Задача о делимости.py" />
         <option value="$PROJECT_DIR$/Разветвляющиеся алгоритмы/Простые задачи/Антон и многогранники.py" />
-        <option value="$PROJECT_DIR$/Циклические алгоритмы/Простые задачи/Антон и многогранники.py" />
         <option value="$PROJECT_DIR$/Циклические алгоритмы/Обработка одномерных массивов/Матчи.py" />
         <option value="$PROJECT_DIR$/Циклические алгоритмы/Обработка строк/Панграмма.py" />
         <option value="$PROJECT_DIR$/Циклические алгоритмы/Обработка строк/Веселая шутка.py" />
         <option value="$PROJECT_DIR$/Разветвляющиеся алгоритмы/Простые задачи/Конфеты и две сестры.py" />
         <option value="$PROJECT_DIR$/Циклические алгоритмы/Простые задачи/Выиграть в лотарею.py" />
         <option value="$PROJECT_DIR$/Циклические алгоритмы/Простые задачи/Лиса и змейка.py" />
+        <option value="$PROJECT_DIR$/Циклические алгоритмы/Простые задачи/Уроки дизайна задач -  учимся у математики.py" />
+        <option value="$PROJECT_DIR$/Циклические алгоритмы/Простые задачи/Антон и многогранники.py" />
+        <option value="$PROJECT_DIR$/Циклические алгоритмы/Простые задачи/Сумма круглых чисел.py" />
+        <option value="$PROJECT_DIR$/Разветвляющиеся алгоритмы/Простые задачи/Хипстер Вася.py" />
+        <option value="$PROJECT_DIR$/Циклические алгоритмы/Простые задачи/Восстановление трех чисел.py" />
+        <option value="$PROJECT_DIR$/Циклические алгоритмы/Обработка последовательностей/I_love_%username%.py" />
+        <option value="$PROJECT_DIR$/Циклические алгоритмы/Простые задачи/Новый год и спешка.py" />
+        <option value="$PROJECT_DIR$/Циклические алгоритмы/Простые задачи/Сбалансированный массив.py" />
+        <option value="$PROJECT_DIR$/Циклические алгоритмы/Простые задачи/Куплю лопату.py" />
+        <option value="$PROJECT_DIR$/Циклические алгоритмы/Обработка одномерных массивов/Удалить наименьшее.py" />
+        <option value="$PROJECT_DIR$/Циклические алгоритмы/Обработка строк/Короткие подстроки.py" />
+        <option value="$PROJECT_DIR$/Циклические алгоритмы/Обработка последовательностей/Полицейские-рекруты.py" />
+        <option value="$PROJECT_DIR$/Линейные алгоритмы/Новый год - встреча друзей.py" />
+        <option value="$PROJECT_DIR$/Циклические алгоритмы/Обработка одномерных массивов/Праздник равенства.py" />
+        <option value="$PROJECT_DIR$/Циклические алгоритмы/Простые задачи/Выбор команд.py" />
+        <option value="$PROJECT_DIR$/Разветвляющиеся алгоритмы/Простые задачи/Ещё одна задача о двух числах.py" />
+        <option value="$PROJECT_DIR$/Циклические алгоритмы/Обработка одномерных массивов/Два массива и обмены.py" />
+        <option value="$PROJECT_DIR$/Разветвляющиеся алгоритмы/Простые задачи/Минимальный квадрат.py" />
+        <option value="$PROJECT_DIR$/Циклические алгоритмы/Обработка одномерных массивов/Феникс и баланс.py" />
+        <option value="$PROJECT_DIR$/Циклические алгоритмы/Обработка последовательностей/Мишка и игра.py" />
+        <option value="$PROJECT_DIR$/Разветвляющиеся алгоритмы/Простые задачи/Необходимый остаток.py" />
+        <option value="$PROJECT_DIR$/Циклические алгоритмы/Обработка одномерных массивов/Уравнивание подарков.py" />
+        <option value="$PROJECT_DIR$/Циклические алгоритмы/Обработка одномерных массивов/Четный массивъ.py" />
+        <option value="$PROJECT_DIR$/Циклические алгоритмы/Обработка одномерных массивов/Четный массив.py" />
+        <option value="$PROJECT_DIR$/Циклические алгоритмы/Обработка одномерных массивов/Командная олимпиада.py" />
+        <option value="$PROJECT_DIR$/Циклические алгоритмы/Обработка одномерных массивов/Честный тренер.py" />
+        <option value="$PROJECT_DIR$/Разветвляющиеся алгоритмы/Простые задачи/Наиболее нестабильный массив.py" />
+        <option value="$PROJECT_DIR$/Циклические алгоритмы/Простые задачи/Задача Бахгольда.py" />
+        <option value="$PROJECT_DIR$/Циклические алгоритмы/Обработка одномерных массивов/Максимум в таблице.py" />
+        <option value="$PROJECT_DIR$/Циклические алгоритмы/Обработка двумерных массивов/Максимум в таблице.py" />
+        <option value="$PROJECT_DIR$/Циклические алгоритмы/Обработка одномерных массивов/Восстановление перестановки после слияния.py" />
       </list>
     </option>
   </component>
@@ -187,17 +217,26 @@
     <option name="width" value="1936" />
     <option name="height" value="1056" />
   </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="Olymp" type="b2602c69:ProjectViewProjectNode" />
               <item name="Olymp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Olymp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Olymp" type="462c0819:PsiDirectoryNode" />
+              <item name="Линейные алгоритмы" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Olymp" type="b2602c69:ProjectViewProjectNode" />
@@ -213,13 +252,12 @@
               <item name="Olymp" type="b2602c69:ProjectViewProjectNode" />
               <item name="Olymp" type="462c0819:PsiDirectoryNode" />
               <item name="Циклические алгоритмы" type="462c0819:PsiDirectoryNode" />
-              <item name="Простые задачи" type="462c0819:PsiDirectoryNode" />
+              <item name="Обработка одномерных массивов" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -230,11 +268,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\i.pritchin\Desktop\Olymp\Циклические алгоритмы\Простые задачи" />
+      <recent name="C:\Users\i.pritchin\Desktop\Olymp\Циклические алгоритмы\Обработка двумерных массивов" />
       <recent name="C:\Users\i.pritchin\Desktop\Olymp\Разветвляющиеся алгоритмы\Простые задачи" />
+      <recent name="C:\Users\i.pritchin\Desktop\Olymp\Циклические алгоритмы\Простые задачи" />
       <recent name="C:\Users\i.pritchin\Desktop\Olymp\Разветвляющиеся алгоритмы" />
       <recent name="C:\Users\i.pritchin\Desktop\Olymp\Циклические алгоритмы\Обработка строк" />
-      <recent name="C:\Users\i.pritchin\Desktop\Olymp\Циклические алгоритмы\Прочее" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -249,7 +287,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Уроки дизайна задач -  учимся у математики">
+  <component name="RunManager" selected="Python.Сбалансированный массив">
     <configuration name="Уроки дизайна задач -  учимся у математики" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Olymp" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -272,7 +310,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Задача о делимости" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Сумма круглых чисел" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Olymp" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -280,12 +318,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Линейные алгоритмы" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Циклические алгоритмы/Простые задачи" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Линейные алгоритмы/Задача о делимости.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Циклические алгоритмы/Простые задачи/Сумма круглых чисел.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -360,6 +398,50 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Сбалансированный массив" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Olymp" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Циклические алгоритмы/Простые задачи" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Циклические алгоритмы/Простые задачи/Сбалансированный массив.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Задача о делимости" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Olymp" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Линейные алгоритмы" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\i.pritchin\Desktop\Olymp\Разветвляющиеся алгоритмы\Простые задачи\Задача о делимости.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Unnamed" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Olymp" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -385,17 +467,17 @@
     <list>
       <item itemvalue="Python.Unnamed" />
       <item itemvalue="Python.Приезд генерала" />
-      <item itemvalue="Python.Антон и буквы" />
       <item itemvalue="Python.Задача о делимости" />
-      <item itemvalue="Python.Антон и многогранники" />
       <item itemvalue="Python.Уроки дизайна задач -  учимся у математики" />
+      <item itemvalue="Python.Сумма круглых чисел" />
+      <item itemvalue="Python.Сбалансированный массив" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Сбалансированный массив" />
+        <item itemvalue="Python.Сумма круглых чисел" />
         <item itemvalue="Python.Уроки дизайна задач -  учимся у математики" />
-        <item itemvalue="Python.Антон и многогранники" />
         <item itemvalue="Python.Задача о делимости" />
-        <item itemvalue="Python.Антон и буквы" />
         <item itemvalue="Python.Приезд генерала" />
       </list>
     </recent_temporary>
@@ -410,26 +492,21 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1600414826606</updated>
-      <workItem from="1600414831710" duration="16843000" />
+      <workItem from="1600414831710" duration="17558000" />
+      <workItem from="1600678143209" duration="7315000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16843000" />
+    <option name="totallyTimeSpent" value="24873000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Python Console" weight="0.32998884" />
-      <window_info anchor="bottom" id="Terminal" weight="0.32998884" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.23857301" />
@@ -437,13 +514,19 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="R Packages" />
-      <window_info anchor="right" id="SciView" />
-      <window_info anchor="right" id="R Graphics" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32998884" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32998884" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="R Graphics" order="4" />
+      <window_info anchor="right" id="R Packages" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -466,237 +549,10 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Разветвляющиеся алгоритмы/Арбузы/main.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Разветвляющиеся алгоритмы/Простые задачи/Арбузы.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="47" selection-start-column="47" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Разветвляющиеся алгоритмы/Обработка строк/Слишком длинные слова.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Линейные алгоритмы/Укладка доминошками.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="2" selection-start-column="2" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Разветвляющиеся алгоритмы/Обработка строк/Bit++.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="49" selection-start-column="49" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Разветвляющиеся алгоритмы/Обработка строк/Капитализация слова.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Циклические алгоритмы/Обработка строк/Математика спешит на помощь.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Циклические алгоритмы/Обработка строк/Петя и строки.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="49" selection-start-column="49" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Циклические алгоритмы/Обработка двумерных массивов/Красивая матрица.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="8" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Циклические алгоритмы/Обработка одномерных массивов/Следующий раунд.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="2" selection-start-column="2" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Циклические алгоритмы/Простые задачи/Команда.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="18" lean-forward="true" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Циклические алгоритмы/Обработка строк/Девушка или Юноша.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Циклические алгоритмы/Обработка строк/Камни на столе.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" lean-forward="true" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Разветвляющиеся алгоритмы/Простые задачи/Слоник.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="19" lean-forward="true" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Циклические алгоритмы/Обработка строк/Очередь в школе.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="2" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Циклические алгоритмы/Простые задачи/Неправильное вычитание.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Циклические алгоритмы/Простые задачи/Трамвай.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="25" lean-forward="true" selection-end-line="9" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Циклические алгоритмы/Простые задачи/Мишка и старший брат.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="7" lean-forward="true" selection-end-line="8" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Разветвляющиеся алгоритмы/Простые задачи/Солдат и бананы.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" lean-forward="true" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Циклические алгоритмы/Простые задачи/Почти счастливое число.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Циклические алгоритмы/Обработка строк/Слово.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" selection-start-line="2" selection-end-line="12" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Циклические алгоритмы/Обработка строк/Перевод.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="48" selection-start-column="48" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Разветвляющиеся алгоритмы/Обработка строк/Антон и Даник.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" lean-forward="true" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Циклические алгоритмы/Простые задачи/Юра и заселение.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="10" lean-forward="true" selection-end-line="8" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Циклические алгоритмы/Простые задачи/Красивый год.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Циклические алгоритмы/Простые задачи/Подарки.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Циклические алгоритмы/Простые задачи/Халк.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="37" lean-forward="true" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Циклические алгоритмы/Простые задачи/В поисках простой задачи.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Циклические алгоритмы/Простые задачи/Магниты.с">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="50" selection-start-column="50" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Циклические алгоритмы/Простые задачи/Ваня и забор.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Разветвляющиеся алгоритмы/Простые задачи/Подсчёт функции.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" lean-forward="true" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Циклические алгоритмы/Обработка строк/Быстрый математик.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Циклические алгоритмы/Простые задачи/Средство от бессонницы.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Циклические алгоритмы/Простые задачи/Напитки.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
@@ -721,66 +577,332 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Циклические алгоритмы/Обработка строк/Антон и буквы.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" lean-forward="true" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Линейные алгоритмы/Задача о делимости.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" lean-forward="true" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Циклические алгоритмы/Простые задачи/Антон и многогранники.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="10" lean-forward="true" selection-end-line="16" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Циклические алгоритмы/Обработка одномерных массивов/Матчи.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" lean-forward="true" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Циклические алгоритмы/Обработка строк/Панграмма.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Циклические алгоритмы/Обработка строк/Веселая шутка.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="16" lean-forward="true" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Разветвляющиеся алгоритмы/Простые задачи/Конфеты и две сестры.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" lean-forward="true" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Циклические алгоритмы/Простые задачи/Выиграть в лотарею.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="10" lean-forward="true" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Циклические алгоритмы/Простые задачи/Лиса и змейка.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Циклические алгоритмы/Обработка одномерных массивов/Матчи.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Циклические алгоритмы/Обработка строк/Веселая шутка.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="16" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Разветвляющиеся алгоритмы/Простые задачи/Конфеты и две сестры.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Циклические алгоритмы/Простые задачи/Выиграть в лотарею.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Разветвляющиеся алгоритмы/Простые задачи/Задача о делимости.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Циклические алгоритмы/Обработка строк/Антон и буквы.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Циклические алгоритмы/Простые задачи/Восстановление трех чисел.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Разветвляющиеся алгоритмы/Простые задачи/Хипстер Вася.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Циклические алгоритмы/Простые задачи/Антон и многогранники.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Циклические алгоритмы/Обработка последовательностей/I_love_%username%.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Циклические алгоритмы/Простые задачи/Юра и заселение.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="10" lean-forward="true" selection-end-line="8" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Циклические алгоритмы/Простые задачи/Халк.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="37" lean-forward="true" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Циклические алгоритмы/Простые задачи/Уроки дизайна задач -  учимся у математики.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="13" lean-forward="true" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Циклические алгоритмы/Простые задачи/Трамвай.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="25" lean-forward="true" selection-end-line="9" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Циклические алгоритмы/Простые задачи/Сумма круглых чисел.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Циклические алгоритмы/Простые задачи/Средство от бессонницы.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Циклические алгоритмы/Простые задачи/Почти счастливое число.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Циклические алгоритмы/Простые задачи/Подарки.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Циклические алгоритмы/Простые задачи/Новый год и спешка.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="49" selection-start-column="49" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Циклические алгоритмы/Простые задачи/Неправильное вычитание.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Циклические алгоритмы/Простые задачи/Напитки.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Циклические алгоритмы/Простые задачи/Мишка и старший брат.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="7" lean-forward="true" selection-end-line="8" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Циклические алгоритмы/Простые задачи/Магниты.с">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="23" lean-forward="true" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Циклические алгоритмы/Простые задачи/Сбалансированный массив.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Циклические алгоритмы/Простые задачи/Куплю лопату.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Циклические алгоритмы/Обработка одномерных массивов/Удалить наименьшее.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Циклические алгоритмы/Обработка строк/Короткие подстроки.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="2" selection-start-column="2" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Циклические алгоритмы/Обработка последовательностей/Полицейские-рекруты.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="9" lean-forward="true" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Линейные алгоритмы/Новый год - встреча друзей.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Циклические алгоритмы/Обработка одномерных массивов/Праздник равенства.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Циклические алгоритмы/Простые задачи/Выбор команд.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Разветвляющиеся алгоритмы/Простые задачи/Ещё одна задача о двух числах.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Циклические алгоритмы/Обработка одномерных массивов/Два массива и обмены.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="50" selection-start-column="50" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Разветвляющиеся алгоритмы/Простые задачи/Минимальный квадрат.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Циклические алгоритмы/Обработка последовательностей/Мишка и игра.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Циклические алгоритмы/Обработка одномерных массивов/Феникс и баланс.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Разветвляющиеся алгоритмы/Простые задачи/Необходимый остаток.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Циклические алгоритмы/Обработка одномерных массивов/Уравнивание подарков.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Циклические алгоритмы/Обработка одномерных массивов/Четный массив.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Циклические алгоритмы/Обработка одномерных массивов/Командная олимпиада.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="21" lean-forward="true" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Циклические алгоритмы/Обработка одномерных массивов/Честный тренер.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Разветвляющиеся алгоритмы/Простые задачи/Наиболее нестабильный массив.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="50" selection-start-column="50" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Циклические алгоритмы/Простые задачи/Задача Бахгольда.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Циклические алгоритмы/Обработка двумерных массивов/Максимум в таблице.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Циклические алгоритмы/Обработка одномерных массивов/Восстановление перестановки после слияния.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
