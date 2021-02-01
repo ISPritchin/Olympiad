@@ -20,372 +20,69 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f2b6b48f-90a4-4168-bff4-35fc806a0329" name="Default Changelist" comment="append task">
-      <change afterPath="$PROJECT_DIR$/.idea/Olympiad.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1000/Оформлено/Boboniu нравится раскрашивать шары.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1000/Оформлено/Bogosort.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1000/Оформлено/JOE на телевидении!.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1000/Оформлено/Jzzhu и дети.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1000/Оформлено/cAPS lOCK.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1000/Оформлено/Башни.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1000/Оформлено/Выражение.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1000/Оформлено/Выращиваем бактерии.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1000/Оформлено/Джонни и древний компьютер.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1000/Оформлено/Драконы.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1000/Оформлено/Заполнение формами.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1000/Оформлено/Игра 23.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1000/Оформлено/Капитан Флинт и дальнее плаванье.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1000/Оформлено/Кормен — лучший друг человека.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1000/Оформлено/Ксюша и кольцевая дорога.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1000/Оформлено/Лекция.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1000/Оформлено/Любимые палиндромы.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1000/Оформлено/Маленький Артём.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1000/Оформлено/Махмуд и треугольник.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1000/Оформлено/Новая Театральная площадь.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1000/Оформлено/Новогодние свечки.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1000/Оформлено/Олеся и Родион.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1000/Оформлено/Оплата без сдачи.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1000/Оформлено/Перемещай скобки.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1000/Оформлено/Плохие некрасивые числа.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1000/Оформлено/Подарок от Лены.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1000/Оформлено/Покупка факелов.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1000/Оформлено/Получи два нуля.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1000/Оформлено/Свободная касса.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1000/Оформлено/Таблица умножения.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1000/Оформлено/Театральная площадь.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1000/Оформлено/Уничтожение массива.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1000/Оформлено/Упражнение на строки.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1000/Оформлено/Футбол.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1000/Оформлено/Ходы на доске.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1000/Оформлено/Чат.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1000/Оформлено/Юный физик.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1200/Оформлено/K-е неделящееся на n.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1200/Оформлено/Бал в БерлГУ.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1200/Оформлено/Ваня и фонари.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1200/Оформлено/Выбор нечетных.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1200/Оформлено/Выгодный проезд.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1200/Оформлено/Лодочное соревнование.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1200/Оформлено/Отсортированные разности соседних.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1200/Оформлено/Пашмак и сад.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1200/Оформлено/Статистика по уровню.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1200/Оформлено/Сумма слагаемых одинаковой четности.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1200/Оформлено/Троичный XOR.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1200/Оформлено/Черви.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1200/Оформлено/Чередующаяся подпоследовательность.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1200/Оформлено/Чубакка и число.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1200/Оформлено/Юные следопыты.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1400/Оформлено/Даны длина и сумма цифр.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Bit++.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/C+=.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/I Wanna Be the Guy.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/I_love_%username%.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Ichihime и треугольник.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Nezzar и разноцветные шары.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/QAQ.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Unique Bid Auction.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Автобус в Удайлэнд.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Азбука Борзе.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Антон и Даник.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Антон и буквы.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Антон и многогранники.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Антон и цифры.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Арбуз.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Аукцион второй цены.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Ближайшее интересное число.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Бросок кубика.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Бывает два типа бургеров.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Быстрый математик.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/В поисках простой задачи.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Ваня и забор.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Ваня и кубики.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Веселая шутка.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Виноград.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Волшебные палочки.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Восстановление перестановки после слияния.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Восстановление трех чисел.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Выберите два числа.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Выбор команд.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Выиграть в лотерею.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Вычитать или делить.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Газировкопитие.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Гамбургеры.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Геннадий и карточная игра.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Два враждующих ученика.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Два кролика.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Два массива и обмены.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Два правильных многоугольника.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Девушка или Юноша.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Дели!.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Дипломы и грамоты.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Домашние дела.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Ещё одна задача о двух числах.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Ещё раз.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Жонглирование буквами.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Задача Бахгольда.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Задача о делимости.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Злые школьники.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Игра с кубиком.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Игра с мячом.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Игра с удалением подстрок.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Игра.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Игровой чат.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Идеальная перестановка.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Имя файла.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/КУС.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Казак Вус и контест.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Камни на столе.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Капитализация слова.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Карманы Поликарпа.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Карточки.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Карты.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Кнопочные гонки.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Кодовый замок.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Коллекционирование монет.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Команда.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Командная олимпиада.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Конфеты и две сестры.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Конфеты.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/КопияКопияКопияКопияКопия.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Коровья дилемма.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Королевский забег.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Короткие подстроки.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Кража в магазине.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Красивая матрица.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Красивый год.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Ксорим.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Куплю лопату.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Лиса и змейка.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Ложные новости.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Магниты.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Максимум в таблице.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Массив с нечетной суммой.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Математика спешит на помощь.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Матчи.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Махмуд, Эхаб и игра в четное-нечетное.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Медвежонок и развёрнутый Радевуш.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Мезо играет в Зому.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Минимальный квадрат.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Минуты до Нового года.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Мишка и игра.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Мишка и контест.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Мишка и старший брат.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Мне скучно жить.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Наиболее нестабильный массив.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Наибольшее возрастание.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Напитки.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Не смешите мои подковы.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Необходимый остаток.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Неправильное вычитание.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Новый год - встреча друзей.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Новый год и названия.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Новый год и рождественский орнамент.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Новый год и спешка.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Номер этажа.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Ночь в музее.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Общая подпоследовательность.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Ограбление банка.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Ограждение.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Одномерный японский кроссворд.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Омкар и Часы Бесконечности.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Омкар и пароль.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Омкар и полнота.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Определи маршрут.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Опять двадцать пять!.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Орные подмассивы.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Освещение парка.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Отельер.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Открытки для друзей.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Отменить поезда.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Очередное приравнивание цен.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Очередное разделение команды.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Очередь в школе.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Панграмма.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Патрик и поход в магазин.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Паша и хомяки.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Перевод.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Перестановка.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Петя и строки.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Письмо.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Плохой треугольник.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Повторное шифрование.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Подарки.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Подделка перестановки.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Подсчёт функции.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/ПокупатеЛи.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Полицейские-рекруты.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Похожие строки.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Почти счастливое число.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Праздник равенства.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Предсказание Панорамикса.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Прибавить нечетное или вычесть четное.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Приезд генерала.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Про награды.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Проверка пароля.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Программа робота.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Пропущенная серия.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Прыгающая лягушка.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Радуга, Флаттершай и шахматная раскраска.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Разведка.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Разговоры в Spyke.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Раздача мороженого.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Разделение последовательности.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Различные цифры.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Разнообразная команда.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Распределение баллов.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Результаты игры.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Ручки и карандаши.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Саша и палочки.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Сбалансированный массив.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Сборка пазла.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Сережа и Дима.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Серия преступлений.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Системный администратор.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Системы уравнений.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Скучные квартиры.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Следующий раунд.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Слишком длинные слова.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Слово.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Слоник.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Солдат и бананы.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Соседние замены.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Специфичные вкусы Андре.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Средство от бессонницы.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Странные функции.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Сумма круглых чисел.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Суперагент.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Таня и лестницы.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Телефонный код.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Точки в отрезках.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Тренировки Егора.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Три кучки с конфетами.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Три строки.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Удаление дубликатов.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Удаление нулей.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Удалить наименьшее.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Укладка доминошками.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Улучшения в последнюю минуту.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Уравнивание подарков.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Уроки дизайна задач учимся у математики.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Фафа и его компания.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Феникс и баланс.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Формирование команд.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Фотографии Брейна.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Хайку.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Халк.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Хипстер Вася.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Хорошие элементы матрицы.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Цветные камешки (упрощ. редакция).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Черный квадрат.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Честное разделение.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Честный тренер.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Четный массив.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Чокнутый компьютер.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Эпическая игра.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Оформлено/Юра и заселение.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/800/Телефонный номер.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/function/read_function/input_matrix.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Olymp.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/R_User_Library.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/800/Another One Bites The Dust.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/800/Вася и шоколадки.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/800/Костюмы.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/800/Курони и подарки.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/800/Летняя школа.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/800/Оформлено/Little C любит 3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/800/Оформлено/Nauuo и голоса.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/800/Оформлено/Suffix Three.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/800/Оформлено/Tokitsukaze и улучшение.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/800/Оформлено/Армия.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/800/Оформлено/Бочки.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/800/Оформлено/Броски кубика.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/800/Оформлено/Ваня и карточки.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/800/Оформлено/Вас вызывает Таймыр.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/800/Оформлено/Генерация строки.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/800/Оформлено/Задача о подмножестве чётной суммы.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/800/Оформлено/Игра (2).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/800/Оформлено/Игра с картами.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/800/Оформлено/Избежать Trygub.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/800/Оформлено/Изменение громкости.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/800/Оформлено/Камни.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/800/Оформлено/Канатоходцы.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/800/Оформлено/Киану Ривз.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/800/Оформлено/Кодер.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/800/Оформлено/Компот.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/800/Оформлено/Копипаст.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/800/Оформлено/Коробку - тянуть.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/800/Оформлено/Корова и стоги сена.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/800/Оформлено/Красно-синее перемешивание.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/800/Оформлено/Купи строку.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/800/Оформлено/Лампочки.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/800/Оформлено/Любите A.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/800/Оформлено/Любовный треугольник.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/800/Оформлено/Максимальный квадрат.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/800/Оформлено/Между офисами.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/800/Оформлено/Место в таблице.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/800/Оформлено/Монеты.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/800/Оформлено/Найди кратные.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/800/Оформлено/Настя читает книгу.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/800/Оформлено/Одиннадцать.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/800/Оформлено/Переупорядочивание массива.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/800/Оформлено/Перчатка бесконечности.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/800/Оформлено/Петя и оригами.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/800/Оформлено/Покупка воды.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/800/Оформлено/Польшар и Гипотеза.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/800/Оформлено/Префиксы.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/800/Оформлено/Равномерная строка.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/800/Оформлено/Разбиение на цифры.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/800/Оформлено/Разведка 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/800/Оформлено/Разнообразные строки.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/800/Оформлено/Рассадка детей.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/800/Оформлено/Сделай треугольник!.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/800/Оформлено/Супермаркет.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/800/Оформлено/Телефонный номер.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/800/Оформлено/Уравнение.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/800/Оформлено/Чётные подстроки.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/800/Побег из тюрьмы.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/800/Рома и счастливые цифры.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/800/Флеш-карты.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/800/Хороший контест.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/800/Арбузы.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Линейные алгоритмы/Волшебные палочки.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Линейные алгоритмы/Минуты до нового года.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Линейные алгоритмы/Новый год - встреча друзей.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Линейные алгоритмы/Опять двадцать пять!.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Линейные алгоритмы/Укладка доминошками.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Разветвляющиеся алгоритмы/Обработка строк/Bit++.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Разветвляющиеся алгоритмы/Обработка строк/Антон и Даник.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Разветвляющиеся алгоритмы/Обработка строк/Капитализация слова.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Разветвляющиеся алгоритмы/Обработка строк/Кодовый замок.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Разветвляющиеся алгоритмы/Обработка строк/Слишком длинные слова.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Разветвляющиеся алгоритмы/Простые задачи/Арбузы.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Разветвляющиеся алгоритмы/Простые задачи/Газировкопитие.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Разветвляющиеся алгоритмы/Простые задачи/Ещё одна задача о двух числах.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Разветвляющиеся алгоритмы/Простые задачи/Задача о делимости.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Разветвляющиеся алгоритмы/Простые задачи/Казак Вус и контест.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Разветвляющиеся алгоритмы/Простые задачи/Коллекционирование монет.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Разветвляющиеся алгоритмы/Простые задачи/Конфеты и две сестры.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Разветвляющиеся алгоритмы/Простые задачи/Махмуд, Эхаб и игра в четное-нечетное.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Разветвляющиеся алгоритмы/Простые задачи/Минимальный квадрат.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Разветвляющиеся алгоритмы/Простые задачи/Наиболее нестабильный массив.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Разветвляющиеся алгоритмы/Простые задачи/Необходимый остаток.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Разветвляющиеся алгоритмы/Простые задачи/Освещение парка.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Разветвляющиеся алгоритмы/Простые задачи/Подсчёт функции.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Разветвляющиеся алгоритмы/Простые задачи/ПокупатеЛи.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Разветвляющиеся алгоритмы/Простые задачи/Прибавить нечетное или вычесть четное.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Разветвляющиеся алгоритмы/Простые задачи/Слоник.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Разветвляющиеся алгоритмы/Простые задачи/Солдат и бананы.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Разветвляющиеся алгоритмы/Простые задачи/Хипстер Вася.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Циклические алгоритмы/Обработка двумерных массивов/Красивая матрица.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Циклические алгоритмы/Обработка двумерных массивов/Максимум в таблице.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Циклические алгоритмы/Обработка одномерных массивов/I wanna be the Guy.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Циклические алгоритмы/Обработка одномерных массивов/Восстановление перестановки после слияния.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Циклические алгоритмы/Обработка одномерных массивов/Геннадий и карточная игра.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Циклические алгоритмы/Обработка одномерных массивов/Два массива и обмены.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Циклические алгоритмы/Обработка одномерных массивов/Командная олимпиада.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Циклические алгоритмы/Обработка одномерных массивов/КопияКопияКопияКопияКопия.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Циклические алгоритмы/Обработка одномерных массивов/Массив с нечетной суммой.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Циклические алгоритмы/Обработка одномерных массивов/Матчи.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Циклические алгоритмы/Обработка одномерных массивов/Не смешите мои подковы.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Циклические алгоритмы/Обработка одномерных массивов/Праздник равенства.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Циклические алгоритмы/Обработка одномерных массивов/Приезд генерала.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Циклические алгоритмы/Обработка одномерных массивов/Сережа и Дима.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Циклические алгоритмы/Обработка одномерных массивов/Следующий раунд.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Циклические алгоритмы/Обработка одномерных массивов/Удалить наименьшее.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Циклические алгоритмы/Обработка одномерных массивов/Уравнивание подарков.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Циклические алгоритмы/Обработка одномерных массивов/Феникс и баланс.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Циклические алгоритмы/Обработка одномерных массивов/Черный квадрат.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Циклические алгоритмы/Обработка одномерных массивов/Честный тренер.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Циклические алгоритмы/Обработка одномерных массивов/Четный массив.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Циклические алгоритмы/Обработка одномерных массивов/Эпическая игра.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Циклические алгоритмы/Обработка последовательностей/I_love_%username%.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Циклические алгоритмы/Обработка последовательностей/Мишка и игра.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Циклические алгоритмы/Обработка последовательностей/Полицейские-рекруты.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Циклические алгоритмы/Обработка последовательностей/Фотографии Брейна.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Циклические алгоритмы/Обработка строк/Автобус в Удайлэнд.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Циклические алгоритмы/Обработка строк/Антон и буквы.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Циклические алгоритмы/Обработка строк/Быстрый математик.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Циклические алгоритмы/Обработка строк/Веселая шутка.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Циклические алгоритмы/Обработка строк/Девушка или Юноша.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Циклические алгоритмы/Обработка строк/Камни на столе.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Циклические алгоритмы/Обработка строк/Короткие подстроки.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Циклические алгоритмы/Обработка строк/Математика спешит на помощь.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Циклические алгоритмы/Обработка строк/Очередь в школе.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Циклические алгоритмы/Обработка строк/Панграмма.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Циклические алгоритмы/Обработка строк/Перевод.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Циклические алгоритмы/Обработка строк/Петя и строки.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Циклические алгоритмы/Обработка строк/Слово.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Циклические алгоритмы/Простые задачи/Антон и многогранники.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Циклические алгоритмы/Простые задачи/В поисках простой задачи.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Циклические алгоритмы/Простые задачи/Ваня и забор.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Циклические алгоритмы/Простые задачи/Ваня и кубики.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Циклические алгоритмы/Простые задачи/Восстановление трех чисел.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Циклические алгоритмы/Простые задачи/Выбор команд.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Циклические алгоритмы/Простые задачи/Выиграть в лотарею.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Циклические алгоритмы/Простые задачи/Задача Бахгольда.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Циклические алгоритмы/Простые задачи/Команда.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Циклические алгоритмы/Простые задачи/Красивый год.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Циклические алгоритмы/Простые задачи/Куплю лопату.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Циклические алгоритмы/Простые задачи/Лиса и змейка.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Циклические алгоритмы/Простые задачи/Магниты.с" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Циклические алгоритмы/Простые задачи/Мишка и старший брат.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Циклические алгоритмы/Простые задачи/Напитки.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Циклические алгоритмы/Простые задачи/Неправильное вычитание.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Циклические алгоритмы/Простые задачи/Новый год и спешка.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Циклические алгоритмы/Простые задачи/Омкар и полнота.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Циклические алгоритмы/Простые задачи/Подарки.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Циклические алгоритмы/Простые задачи/Почти счастливое число.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Циклические алгоритмы/Простые задачи/Сбалансированный массив.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Циклические алгоритмы/Простые задачи/Средство от бессонницы.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Циклические алгоритмы/Простые задачи/Сумма круглых чисел.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Циклические алгоритмы/Простые задачи/Трамвай.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Циклические алгоритмы/Простые задачи/Уроки дизайна задач -  учимся у математики.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Циклические алгоритмы/Простые задачи/Фафа и его компания.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Циклические алгоритмы/Простые задачи/Халк.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Циклические алгоритмы/Простые задачи/Юра и заселение.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/800/Купи строку.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/800/Телефонный номер.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -416,6 +113,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -426,8 +124,8 @@
       <recent name="E:\Repositories\Olympiad\800\Панграмма" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Телефонный номер">
-    <configuration name="Специфичные вкусы Андре" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Летняя школа">
+    <configuration name="Курони и подарки" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Olympiad" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -440,7 +138,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/800/Специфичные вкусы Андре.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/800/Курони и подарки.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -493,7 +191,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Телефонный номер" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Хороший контест" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Olympiad" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -506,7 +204,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/800/Телефонный номер.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/800/Хороший контест.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -515,7 +213,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Новый год и рождественский орнамент" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Летняя школа" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Olympiad" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -528,7 +226,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/800/Новый год и рождественский орнамент.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/800/Летняя школа.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -537,7 +235,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Карты" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Побег из тюрьмы" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Olympiad" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -550,7 +248,29 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/800/Карты.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/800/Побег из тюрьмы.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Another One Bites The Dust" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Olympiad" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/800" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/800/Another One Bites The Dust.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -583,10 +303,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Телефонный номер" />
-        <item itemvalue="Python.Специфичные вкусы Андре" />
-        <item itemvalue="Python.Карты" />
-        <item itemvalue="Python.Новый год и рождественский орнамент" />
+        <item itemvalue="Python.Летняя школа" />
+        <item itemvalue="Python.Побег из тюрьмы" />
+        <item itemvalue="Python.Another One Bites The Dust" />
+        <item itemvalue="Python.Курони и подарки" />
+        <item itemvalue="Python.Хороший контест" />
       </list>
     </recent_temporary>
   </component>
@@ -609,7 +330,7 @@
       <workItem from="1611854577988" duration="11353000" />
       <workItem from="1611914849986" duration="29031000" />
       <workItem from="1612083073440" duration="21559000" />
-      <workItem from="1612124864022" duration="1371000" />
+      <workItem from="1612124864022" duration="42281000" />
     </task>
     <task id="LOCAL-00001" summary="append task">
       <created>1611346688839</created>
@@ -653,25 +374,25 @@
       <screen x="0" y="0" width="2459" height="1440" />
     </state>
     <state x="211" y="348" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2459.1440@0.0.2459.1440" timestamp="1611351375825" />
-    <state width="2416" height="180" key="GridCell.Tab.0.bottom" timestamp="1612110818408">
+    <state width="2416" height="180" key="GridCell.Tab.0.bottom" timestamp="1612223361802">
       <screen x="0" y="0" width="2459" height="1440" />
     </state>
-    <state width="2416" height="180" key="GridCell.Tab.0.bottom/0.0.2459.1440@0.0.2459.1440" timestamp="1612110818408" />
+    <state width="2416" height="180" key="GridCell.Tab.0.bottom/0.0.2459.1440@0.0.2459.1440" timestamp="1612223361802" />
     <state width="2517" height="399" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1611560538029" />
-    <state width="2416" height="180" key="GridCell.Tab.0.center" timestamp="1612110818408">
+    <state width="2416" height="180" key="GridCell.Tab.0.center" timestamp="1612223361802">
       <screen x="0" y="0" width="2459" height="1440" />
     </state>
-    <state width="2416" height="180" key="GridCell.Tab.0.center/0.0.2459.1440@0.0.2459.1440" timestamp="1612110818408" />
+    <state width="2416" height="180" key="GridCell.Tab.0.center/0.0.2459.1440@0.0.2459.1440" timestamp="1612223361802" />
     <state width="2517" height="399" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1611560538029" />
-    <state width="2416" height="180" key="GridCell.Tab.0.left" timestamp="1612110818408">
+    <state width="2416" height="180" key="GridCell.Tab.0.left" timestamp="1612223361802">
       <screen x="0" y="0" width="2459" height="1440" />
     </state>
-    <state width="2416" height="180" key="GridCell.Tab.0.left/0.0.2459.1440@0.0.2459.1440" timestamp="1612110818408" />
+    <state width="2416" height="180" key="GridCell.Tab.0.left/0.0.2459.1440@0.0.2459.1440" timestamp="1612223361802" />
     <state width="2517" height="399" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1611560538029" />
-    <state width="2416" height="180" key="GridCell.Tab.0.right" timestamp="1612110818408">
+    <state width="2416" height="180" key="GridCell.Tab.0.right" timestamp="1612223361802">
       <screen x="0" y="0" width="2459" height="1440" />
     </state>
-    <state width="2416" height="180" key="GridCell.Tab.0.right/0.0.2459.1440@0.0.2459.1440" timestamp="1612110818408" />
+    <state width="2416" height="180" key="GridCell.Tab.0.right/0.0.2459.1440@0.0.2459.1440" timestamp="1612223361802" />
     <state width="2517" height="399" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1611560538029" />
     <state width="2416" height="507" key="GridCell.Tab.1.bottom" timestamp="1611521213624">
       <screen x="0" y="0" width="2459" height="1440" />
@@ -689,6 +410,10 @@
       <screen x="0" y="0" width="2459" height="1440" />
     </state>
     <state width="2416" height="507" key="GridCell.Tab.1.right/0.0.2459.1440@0.0.2459.1440" timestamp="1611521213624" />
+    <state x="730" y="364" key="SettingsEditor" timestamp="1612210776265">
+      <screen x="0" y="0" width="2459" height="1440" />
+    </state>
+    <state x="730" y="364" key="SettingsEditor/0.0.2459.1440@0.0.2459.1440" timestamp="1612210776265" />
     <state x="206" y="456" key="Vcs.Push.Dialog.v2" timestamp="1611346814464">
       <screen x="0" y="0" width="2459" height="1440" />
     </state>
@@ -737,19 +462,27 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Olympiad$main__2_.coverage" NAME="main (2) Coverage Results" MODIFIED="1611697301264" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1200/K-е неделящееся на n" />
-    <SUITE FILE_PATH="coverage/Olympiad$____.coverage" NAME="Новый год и рождественский орнамент Coverage Results" MODIFIED="1612103913194" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/800" />
+    <SUITE FILE_PATH="coverage/Olympiad$____.coverage" NAME="Новый год и количество карт Coverage Results" MODIFIED="1612201526916" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/800" />
     <SUITE FILE_PATH="coverage/Olympiad$main.coverage" NAME="main Coverage Results" MODIFIED="1611688040394" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1200/Игра с переворачиванием" />
     <SUITE FILE_PATH="coverage/Olympiad$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1611689135432" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1200/Чередующаяся подпоследовательность" />
     <SUITE FILE_PATH="coverage/Olympiad$main__4_.coverage" NAME="main (4) Coverage Results" MODIFIED="1611686791313" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1000/Уничтожение массива" />
-    <SUITE FILE_PATH="coverage/Olympiad$_.coverage" NAME="Телефонный номер Coverage Results" MODIFIED="1612161649904" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/800" />
+    <SUITE FILE_PATH="coverage/Olympiad$_.coverage" NAME="Летняя школа Coverage Results" MODIFIED="1612213162841" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/800" />
+    <SUITE FILE_PATH="coverage/Olympiad$Little_C__3.coverage" NAME="Little C любит 3 Coverage Results" MODIFIED="1612180059872" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/800" />
+    <SUITE FILE_PATH="coverage/Olympiad$Nauuo__.coverage" NAME="Nauuo и голоса Coverage Results" MODIFIED="1612188731580" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/800" />
     <SUITE FILE_PATH="coverage/Olympiad$Unique_Bid_Auction.coverage" NAME="Unique Bid Auction.c Coverage Results" MODIFIED="1611947621165" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/800" />
+    <SUITE FILE_PATH="coverage/Olympiad$Suffix_Three.coverage" NAME="Suffix Three Coverage Results" MODIFIED="1612164558266" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/800" />
+    <SUITE FILE_PATH="coverage/Olympiad$_Trygub.coverage" NAME="Избежать Trygub Coverage Results" MODIFIED="1612181926731" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/800" />
+    <SUITE FILE_PATH="coverage/Olympiad$Tokitsukaze__.coverage" NAME="Tokitsukaze и улучшение Coverage Results" MODIFIED="1612175655961" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/800" />
     <SUITE FILE_PATH="coverage/Olympiad$input.coverage" NAME="input Coverage Results" MODIFIED="1611480028447" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1000/Марья Ивановна нарушает самоизоляцию" />
     <SUITE FILE_PATH="coverage/Olympiad$main__5_.coverage" NAME="main (5) Coverage Results" MODIFIED="1611868845407" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1400/Даны длина и сумма цифр" />
+    <SUITE FILE_PATH="coverage/Olympiad$Another_One_Bites_The_Dust.coverage" NAME="Another One Bites The Dust Coverage Results" MODIFIED="1612212706117" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/800" />
     <SUITE FILE_PATH="coverage/Olympiad$______.coverage" NAME="Цветные камешки (упрощ. редакция) Coverage Results" MODIFIED="1612089833378" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/800" />
-    <SUITE FILE_PATH="coverage/Olympiad$___.coverage" NAME="Омкар и Часы Бесконечности Coverage Results" MODIFIED="1612098467287" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/800" />
+    <SUITE FILE_PATH="coverage/Olympiad$___.coverage" NAME="Рома и счастливые цифры Coverage Results" MODIFIED="1612212151161" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/800" />
     <SUITE FILE_PATH="coverage/Olympiad$Nezzar___.coverage" NAME="Nezzar и разноцветные шары Coverage Results" MODIFIED="1612089632502" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/800" />
-    <SUITE FILE_PATH="coverage/Olympiad$__.coverage" NAME="Специфичные вкусы Андре Coverage Results" MODIFIED="1612105925355" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/800" />
-    <SUITE FILE_PATH="coverage/Olympiad$.coverage" NAME="Карты Coverage Results" MODIFIED="1612105668777" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/800" />
+    <SUITE FILE_PATH="coverage/Olympiad$__.coverage" NAME="Побег из тюрьмы Coverage Results" MODIFIED="1612213058506" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/800" />
+    <SUITE FILE_PATH="coverage/Olympiad$_A.coverage" NAME="Любите A Coverage Results" MODIFIED="1612165082600" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/800" />
+    <SUITE FILE_PATH="coverage/Olympiad$.coverage" NAME="Костюмы Coverage Results" MODIFIED="1612211237208" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/800" />
+    <SUITE FILE_PATH="coverage/Olympiad$_2.coverage" NAME="Разведка 2 Coverage Results" MODIFIED="1612188350838" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/800/Оформлено" />
     <SUITE FILE_PATH="coverage/Olympiad$main__3_.coverage" NAME="main (3) Coverage Results" MODIFIED="1611697705428" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1200/Троичный XOR" />
   </component>
 </project>
